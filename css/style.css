@@ -1,0 +1,45 @@
+body {
+    font-size: 16px;
+    background: #f2f6fa!important;
+
+}
+
+.navbar {
+    background: #8923a8;
+
+}
+
+.fgk {
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 6px rgba(0, 0, 0, 0.15)
+}
+
+.card-section {
+    padding: 80px 0 80px
+}
+
+.card {
+    padding: 15px;
+    margin-bottom: 15px;
+    border: none !important;
+    background-image: linear-gradient(315deg, #d2d3ff 0%, #edc2ff 74%)
+}
+
+.card-title {
+    color: rgb(65, 65, 65);
+    font-size: 24px;
+    text-align: center
+}
+
+.card-text {
+    color: rgb(75, 75, 75);
+    padding-bottom: 15px;
+    text-align: center
+}
+
+.img-fluid-g {
+    max-width: 100%;
+    height: 250px;
+    padding: 5px
+}
